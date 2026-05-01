@@ -9,6 +9,8 @@ Control any AC, TV, or IR device from a browser — no app required.
 
 ## Web Interface 
 
+<img width="1390" height="1600" alt="WhatsApp Image 2026-05-01 at 5 58 12 PM" src="https://github.com/user-attachments/assets/60059a40-37c4-4b67-9bf5-e24778d94bec" />
+
 <img width="1202" height="994" alt="image" src="https://github.com/user-attachments/assets/6b6f3f54-38e5-4f31-8645-91f2712802ff" />
 <img width="678" height="936" alt="image" src="https://github.com/user-attachments/assets/3d4340de-ba8a-492f-b19b-a62d4f6bbf76" />
 
