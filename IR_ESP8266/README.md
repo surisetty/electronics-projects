@@ -14,7 +14,7 @@ Control any AC, TV, or IR device from a browser — no app required.
 <img width="1202" height="994" alt="image" src="https://github.com/user-attachments/assets/6b6f3f54-38e5-4f31-8645-91f2712802ff" />
 <img width="678" height="936" alt="image" src="https://github.com/user-attachments/assets/3d4340de-ba8a-492f-b19b-a62d4f6bbf76" />
 
-
+https://youtu.be/kJczzHXjUr4?si=K3VXQkY7WFXsv8iT
 
 ## Features
 
