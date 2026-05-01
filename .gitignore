@@ -1,0 +1,22 @@
+# Build files
+*.hex
+*.bin
+*.elf
+*.o
+
+# Arduino
+*.ino.cpp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# KiCad temp files
+*.kicad_prl
+*.kicad_sch-bak
