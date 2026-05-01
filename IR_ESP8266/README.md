@@ -7,6 +7,13 @@ Control any AC, TV, or IR device from a browser — no app required.
 
 ---
 
+## Web Interface 
+
+<img width="1202" height="994" alt="image" src="https://github.com/user-attachments/assets/6b6f3f54-38e5-4f31-8645-91f2712802ff" />
+<img width="678" height="936" alt="image" src="https://github.com/user-attachments/assets/3d4340de-ba8a-492f-b19b-a62d4f6bbf76" />
+
+
+
 ## Features
 
 - **Universal IR protocol support** — NEC, LG, LG2, Samsung, Sony, RC5, RC6, Panasonic, JVC, Sharp, Denon, Coolix, Mitsubishi, Whynter, Daikin
