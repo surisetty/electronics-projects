@@ -16,7 +16,7 @@ Control any AC, TV, or IR device from a browser — no app required.
 
 
 ## Youtube 
-https://youtu.be/kJczzHXjUr4?si=K3VXQkY7WFXsv8iT
+[[https://youtu.be/kJczzHXjUr4?si=K3VXQkY7WFXsv8iT](https://youtu.be/XJEerirybwY)](https://youtu.be/XJEerirybwY)
 
 ## Features
 
